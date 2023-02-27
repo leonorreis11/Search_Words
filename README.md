@@ -1,7 +1,7 @@
 # Search_Words
-Motor de busca de palavras 
 
 O objetivo do trabalho é permitir procurar palavras num texto em português, codificado em utf-8, e mostrá-las em contexto.
+
 Há duas fases, cada uma delas implementada por um programa autónomo:
 A primeira para ler o ficheiro, isolar as palavras e criar um ficheiro com as palavras encontradas.
 A segunda para ler o ficheiro produzido na primeira fase e criar um índice em memória, que permite mostrar em contexto as palavras que o utilizador queira analisar. Mostrar em contexto significa mostrar a palavra em conjunto com palavras que a precedem e lhe sucedem. O utilizador também deve poder pedir para serem listadas todas as palavras que começam por uma determinada letra, ou intervalo de letras.
